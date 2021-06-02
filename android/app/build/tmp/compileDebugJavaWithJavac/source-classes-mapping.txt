@@ -1,0 +1,14 @@
+com/quotes/BuildConfig.java
+ com.quotes.BuildConfig
+com/quotes/MainApplication.java
+ com.quotes.MainApplication
+ com.quotes.MainApplication$1
+com/quotes/MainActivity.java
+ com.quotes.MainActivity
+com/quotes/ReactNativeFlipper.java
+ com.quotes.ReactNativeFlipper
+ com.quotes.ReactNativeFlipper$1
+ com.quotes.ReactNativeFlipper$2
+ com.quotes.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
